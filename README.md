@@ -1,6 +1,6 @@
 # Vilmara de Oliveira Valdevino
 
-Brasileira, Data nasc.: 08/04/1995 Solteira
+Brasileira, 20 anos, solteira
 
 EMAIL: vilmaravaldevino@globomail.com
 
