@@ -1,5 +1,7 @@
 # Vilmara de Oliveira Valdevino
-Brasileira, Data nasc.: 08/04/1995 Solteira 
+
+Brasileira, Data nasc.: 08/04/1995 Solteira
+
 EMAIL: vilmaravaldevino@globomail.com
 
 
