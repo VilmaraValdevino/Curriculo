@@ -1,4 +1,3 @@
-H1
 # Vilmara de Oliveira Valdevino
 Brasileira, Data nasc.: 08/04/1995 Solteira 
 Rua Serra de Itabaiana, 117ª FUNDOS, 
@@ -6,9 +5,9 @@ Parque Santa Madalena 03981-040 São Paulo, SP - Brasil
 CONTATOS: 27056798, 968264921, vilmaravaldevino@globomail.com
 
 
-Formação Acadêmica
+# Formação Acadêmica
 
-Escolaridade:
+## Escolaridade:
 
 UNINOVE , Avenida Professor Luiz Ignácio de Anhaia Melo, 1363 - Vila Prudente – São Paulo – Capital / SP
 Curso: Bacharel (Inicio: 23/02/2015)  
@@ -22,14 +21,14 @@ Escola Estadual José Chediak , Av. Oratório - Parque São Lucas -São Paulo �
 Curso: Médio (Período de: Fevereiro de 2010 á Dezembro de 2012)  
 Situação: CONCLUÍDO > ENSINO MÉDIO
 
-Cursos Complementares
+# Cursos Complementares
 
 New Camp Informática, Vila Alpina - São Paulo – Capital/SP
 Curso: Complementar (Período de: 21/08/2010 à 26/02/2011 – Totalizando: 50 Horas de Carga Horária)
 
 
 
-Idiomas
+# Idiomas
 
 Espanhol: Básico - Curso realizado na subprefeitura da Vila Prudente (duração 4 meses)
 
@@ -42,7 +41,7 @@ Habilitação: CNH Categoria B.
 
 
 
-Histórico profissional
+# Histórico profissional
 
 * Empresa: Atual Filmes Ind. E Com. De Filmes de PVC LTDA – Desde 13/Novembro/2013 – à 12/Dezembro/2014 (empresa de pequeno porte no segmento de fabricação de embalagens plásticas em PVC)
 Cargo: Assistente de Vendas – Setor: Escritório
