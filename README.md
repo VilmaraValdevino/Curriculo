@@ -23,8 +23,8 @@ Situação: CONCLUÍDO > ENSINO MÉDIO
 
 ## Cursos Complementares
 
-New Camp Informática, São Paulo – Capital/SP
-Curso: Complementar (Período de: 21/08/2010 à 26/02/2011 – Totalizando: 50 Horas de Carga Horária)
+New Camp Informática,São Paulo – Capital/SP
+Curso: ADM (Período de: 21/08/2010 à 26/02/2011 – Totalizando: 50 Horas de Carga Horária)
 
 
 
