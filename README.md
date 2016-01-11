@@ -21,21 +21,29 @@ Escola Estadual José Chediak , São Paulo - SP
 Curso: Médio (Período de: Fevereiro de 2010 á Dezembro de 2012)  
 Situação: CONCLUÍDO > ENSINO MÉDIO
 
-## Cursos Complementares
+
+
+### Cursos Complementares
+
+Senac , São Paulo - Capital/SP
+Curso: Montagem e manutenção de microcomputadores (Período de: 03/10/2015 à 19/12/2015 - Concluído)
 
 New Camp Informática,São Paulo – Capital/SP
 Curso: ADM (Período de: 21/08/2010 à 26/02/2011 – Totalizando: 50 Horas de Carga Horária)
 
 
 
-## Idiomas
+### Idiomas
 
 Espanhol: Básico - Curso realizado na subprefeitura da Vila Prudente (duração 4 meses)
 
 Inglês: Básico – Cursando no Channel 9 curso EAD da Uninove – ínicio 01/2015.
 
 
-Conhecimentos: Pacote Office: Word, PowerPoint, Excel, Outlook; Programação: Linguagem C; Sistemas operacionais: Windows Xp , Windows 7 e Windows 8.
+
+### Conhecimentos
+
+Montagem e manuenção de microcomputadores; Pacote Office: Word, PowerPoint, Excel, Outlook; Programação: Linguagem C; Sistemas operacionais: Windows Xp , Windows 7 , Windows 8 e Windows 8.1.
 
 Habilitação: CNH Categoria B.
 
