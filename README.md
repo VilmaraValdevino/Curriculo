@@ -26,9 +26,11 @@ Situação: CONCLUÍDO > ENSINO MÉDIO
 ### Cursos Complementares
 
 Senac , São Paulo - Capital/SP
+
 Curso: Montagem e manutenção de microcomputadores (Período de: 03/10/2015 à 19/12/2015 - Concluído)
 
 New Camp Informática,São Paulo – Capital/SP
+
 Curso: ADM (Período de: 21/08/2010 à 26/02/2011 – Totalizando: 50 Horas de Carga Horária)
 
 
