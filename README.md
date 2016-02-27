@@ -43,13 +43,17 @@ Inglês: Básico – Cursando no Channel 9 curso EAD da Uninove – ínicio 01/2
 
 ### Conhecimentos
 
-Montagem e manuenção de microcomputadores; Pacote Office: Word, PowerPoint, Excel, Outlook; Programação: Linguagem C; Sistemas operacionais: Windows Xp , Windows 7 , Windows 8 e Windows 8.1.
+Montagem e manuenção de microcomputadores; Pacote Office: Word, PowerPoint, Excel, Outlook; Programação: Linguagem C , Java básico, noções de HTML e CSS; Sistemas operacionais: Windows Xp , Windows 7 , Windows 8 ,  Windows 8.1 e Windows 10.
 
 Habilitação: CNH Categoria B.
 
 
 
 ## Histórico profissional
+
+* Empresa: Secretaria da Educação do Estado de São Paulo - Rede do Saber / EFAP - Desde 01/02/2016 - à ATUAL (empresa de Grande porte no segmento da Educação)
+Cargo: Estagiária - Setor: TI
+Funções: Testes e manutenção de softwares,Configuração IP,Plantão técnico para resolução de problemas em equipamentos de informática e videoconferência da rede, Realização de testes operacionais rotineiros nos equipamentos.
 
 * Empresa: Atual Filmes Ind. E Com. De Filmes de PVC LTDA – Desde 13/Novembro/2013 – à 12/Dezembro/2014 (empresa de pequeno porte no segmento de fabricação de embalagens plásticas em PVC)
 Cargo: Assistente de Vendas – Setor: Escritório
