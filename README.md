@@ -5,18 +5,18 @@ Brasileira, São Paulo-SP, 23 anos, solteira
 email: vilmaraov@gmail.com
 
 \- [Linkedin](https://www.linkedin.com/in/vilmaradeoliveiravaldevino/) 
-
-
+  
+  
 
 
 
 
 ### Formação
 
-**Bacharel em Sistemas de Informação – 02/2015 - 12/2018;** 	
-Universidade Uninove - Centro Universitário Nove de Julho;
-
-
+**Bacharel em Sistemas de Informação – 02/2015 - 12/2018;**  	
+Universidade Uninove - Centro Universitário Nove de Julho;  
+  
+  
 
 
 
@@ -27,8 +27,8 @@ Universidade Uninove - Centro Universitário Nove de Julho;
 * Construção de Impressora 3D - Sesc São Caetano - 07/10 à 09/12/2017 (32 horas)
 * Front-end - Programaria - 22/10 à 03/12/2016 (36 horas)
 * Manutenção de Micro - Senac Vila Prudente - 10/10 à 12/12/2015 (30 horas) 
-
-
+  
+  
 
 
 
@@ -37,8 +37,8 @@ Universidade Uninove - Centro Universitário Nove de Julho;
 
 * Inglês: Intermediário II - Wise Up - 03/02/2018 - previsão de término 09/2019;
 * Espanhol: Básico - Subprefeitura da Vila Prudente - 02/2011 - 12/2011.
-
-
+  
+  
 
 
 
@@ -47,19 +47,19 @@ Universidade Uninove - Centro Universitário Nove de Julho;
 
 Lógica de programação, Estratégia de negócios, Gestão de projetos, Python, C, Pacote office,
 SQL server, QA, Jira, Trello, Conhecimentos básicos em Java, HTML e CSS.
-
-
+  
+  
 
 
 
 
 ### Experiência
+  
 
 
 
-
-**GETSOURCE** 07/05/2018 – 28/09/2018 	
-Cargo: **Analista de Sucesso**
+**GETSOURCE** 07/05/2018 – 28/09/2018  
+Cargo: **Analista de Sucesso**  
 
 Responsável por coordenar os processos de mapeamento de projetos e estratégia de
 negócios,buscando soluções e melhorias, através da gestão dos projetos dos clientes:
@@ -74,12 +74,12 @@ funções com o time para delegar atividades à cada colaborador da equipe;
 mercado e do planejamento estratégico que leva à melhores soluções ao cliente;
 * QA - Análise de testes, registro de não conformidades relativas à arquitetura e/ou
 modelagem dos sistemas.
+  
+  
 
 
-
-
-**SEBRAE SP** 04/04/2016 – 03/04/2018 	
-Cargo: **Estagiária de CRM**
+**SEBRAE SP** 04/04/2016 – 03/04/2018  
+Cargo: **Estagiária de CRM**  
 
 Atuação na área responsável pelo CRM e Base de dados do Sebrae-SP, desenvolvendo
 estratégias de relacionamento e conversão:
