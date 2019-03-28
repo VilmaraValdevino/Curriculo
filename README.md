@@ -1,6 +1,6 @@
 # Vilmara de Oliveira Valdevino
 
-Brasileira, São Paulo-SP, 23 anos, solteira
+Brasileira, São Paulo-SP, 23 anos, Solteira
 
 email: vilmaraov@gmail.com
 
@@ -13,8 +13,8 @@ email: vilmaraov@gmail.com
 
 ## Formação
 
-**Bacharel em Sistemas de Informação – 02/2015 - 12/2018;**  	
-Universidade Uninove - Centro Universitário Nove de Julho;  
+**Bacharel em Sistemas de Informação – 02/2015 - 12/2018**    	
+Universidade Uninove - Centro Universitário Nove de Julho    
   
   
 
