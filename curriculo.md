@@ -1,21 +1,27 @@
 # Vilmara de Oliveira Valdevino
 
-Brasileira, 23 anos, solteira
+Brasileira, São Paulo-SP, 23 anos, solteira
 
-EMAIL: vilmaraov@gmail.com
+email: vilmaraov@gmail.com
 
 \- [Linkedin](https://www.linkedin.com/in/vilmaradeoliveiravaldevino/) 
 
 
-## Formação
 
-**Bacharel em Sistemas de Informação – 02/2015 - 12/2018;**
+
+
+
+### Formação
+
+**Bacharel em Sistemas de Informação – 02/2015 - 12/2018;** 	
 Universidade Uninove - Centro Universitário Nove de Julho;
 
 
 
 
-## Cursos Complementares
+
+
+### Cursos Complementares
 
 * Python para Análise de Dados – Minas Programam - 18 à 22/02/2019 (20 horas)
 * Construção de Impressora 3D - Sesc São Caetano - 07/10 à 09/12/2017 (32 horas)
@@ -25,7 +31,9 @@ Universidade Uninove - Centro Universitário Nove de Julho;
 
 
 
-## Idiomas
+
+
+### Idiomas
 
 * Inglês: Intermediário II - Wise Up - 03/02/2018 - previsão de término 09/2019;
 * Espanhol: Básico - Subprefeitura da Vila Prudente - 02/2011 - 12/2011.
@@ -33,7 +41,9 @@ Universidade Uninove - Centro Universitário Nove de Julho;
 
 
 
-## Conhecimentos
+
+
+### Conhecimentos
 
 Lógica de programação, Estratégia de negócios, Gestão de projetos, Python, C, Pacote office,
 SQL server, QA, Jira, Trello, Conhecimentos básicos em Java, HTML e CSS.
@@ -41,11 +51,14 @@ SQL server, QA, Jira, Trello, Conhecimentos básicos em Java, HTML e CSS.
 
 
 
-## Experiência
+
+
+### Experiência
 
 
 
-**GETSOURCE** 07/05/2018 – 28/09/2018
+
+**GETSOURCE** 07/05/2018 – 28/09/2018 	
 Cargo: **Analista de Sucesso**
 
 Responsável por coordenar os processos de mapeamento de projetos e estratégia de
@@ -63,7 +76,9 @@ mercado e do planejamento estratégico que leva à melhores soluções ao client
 modelagem dos sistemas.
 
 
-**SEBRAE SP** 04/04/2016 – 03/04/2018
+
+
+**SEBRAE SP** 04/04/2016 – 03/04/2018 	
 Cargo: **Estagiária de CRM**
 
 Atuação na área responsável pelo CRM e Base de dados do Sebrae-SP, desenvolvendo
