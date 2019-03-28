@@ -1,79 +1,88 @@
 # Vilmara de Oliveira Valdevino
 
-Brasileira, 21 anos, solteira
+Brasileira, 23 anos, solteira
 
 EMAIL: vilmaraov@gmail.com
 
+\- [Linkedin](https://www.linkedin.com/in/vilmaradeoliveiravaldevino/) 
 
-## Formação Acadêmica
 
-### Escolaridade:
+## Formação
 
-UNINOVE , São Paulo - SP
-Curso: Bacharel (Inicio: 23/02/2015)  
-Situação: CURSANDO > BACHAREL EM SISTEMAS DE INFORMAÇÃO
-
-Colégio Tableau , São Paulo – Capital / SP
-Curso: Técnico (Período de: Fevereiro de 2013 à Julho de 2014)  
-Situação: CONCLUÍDO > TÉCNICO EM SEGURANÇA DO TRABALHO
-
-Escola Estadual José Chediak , São Paulo - SP
-Curso: Médio (Período de: Fevereiro de 2010 á Dezembro de 2012)  
-Situação: CONCLUÍDO > ENSINO MÉDIO
+**Bacharel em Sistemas de Informação – 02/2015 - 12/2018;**
+Universidade Uninove - Centro Universitário Nove de Julho;
 
 
 
-### Cursos Complementares
 
-Programaria , São Paulo - Capital/SP        
-Curso: Front-end (Período de: 22/10/2016 à 03/12/2016 - Concluído)
+## Cursos Complementares
 
-Senac , São Paulo - Capital/SP        
-Curso: Montagem e manutenção de microcomputadores (Período de: 03/10/2015 à 19/12/2015 - Concluído)
-
-New Camp Informática,São Paulo – Capital/SP                 
-Curso: ADM (Período de: 21/08/2010 à 26/02/2011 – Totalizando: 50 Horas de Carga Horária)
+* Python para Análise de Dados – Minas Programam - 18 à 22/02/2019 (20 horas)
+* Construção de Impressora 3D - Sesc São Caetano - 07/10 à 09/12/2017 (32 horas)
+* Front-end - Programaria - 22/10 à 03/12/2016 (36 horas)
+* Manutenção de Micro - Senac Vila Prudente - 10/10 à 12/12/2015 (30 horas) 
 
 
 
-### Idiomas
 
-Espanhol: Básico - Curso realizado na subprefeitura da Vila Prudente (duração 4 meses)
+## Idiomas
 
-Inglês: Básico – Cursando no Channel 9 curso EAD da Uninove – ínicio 01/2015.
-
-
-
-### Conhecimentos
-
-Montagem e manuenção de microcomputadores; Pacote Office: Word, PowerPoint, Excel, Outlook; Programação: Linguagem C , Java básico, HTML e CSS; Sistemas operacionais: Windows Xp , Windows 7 , Windows 8 ,  Windows 8.1 e Windows 10.
-
-Habilitação: CNH Categoria B.
+* Inglês: Intermediário II - Wise Up - 03/02/2018 - previsão de término 09/2019;
+* Espanhol: Básico - Subprefeitura da Vila Prudente - 02/2011 - 12/2011.
 
 
 
-## Histórico profissional
 
-* Empresa: SebraeSP - Desde 04/Abril/2016 - à ATUAL (empresa de Grande porte no segmento de Negócios)
-Cargo: Estagiária - Setor: Inteligência de Mercado
-Funções: : Dar suporte nas atividades do subprocesso de CRM, em especial na análise de banco de dados e estratégias, acompanhar feed-back das demandas, analise dos relatórios de campanhas, levantamento de dados, processo de coleta, organização, análise, captura, curadoria de dados, pesquisa, compartilhamento, armazenamento, transferência, visualização, informações e monitoramento sobre privacidade dos dados que oferecem suporte a gestão de negócios; Obtenção de insights que levam a melhores decisões e direções estratégicas de negócio.
+## Conhecimentos
 
-* Empresa: Secretaria da Educação do Estado de São Paulo - Rede do Saber / EFAP - Desde 01/Fevereiro/2016 - à 18/Março/2016 (empresa de Grande porte no segmento da Educação)
-Cargo: Estagiária - Setor: TI
-Funções: Testes e manutenção de softwares,Configuração IP,Plantão técnico para resolução de problemas em equipamentos de informática e videoconferência da rede, Realização de testes operacionais rotineiros nos equipamentos.
+Lógica de programação, Estratégia de negócios, Gestão de projetos, Python, C, Pacote office,
+SQL server, QA, Jira, Trello, Conhecimentos básicos em Java, HTML e CSS.
 
-* Empresa: Atual Filmes Ind. E Com. De Filmes de PVC LTDA – Desde 13/Novembro/2013 – à 12/Dezembro/2014 (empresa de pequeno porte no segmento de fabricação de embalagens plásticas em PVC)
-Cargo: Assistente de Vendas – Setor: Escritório
-Funções: atendimentos à clientes para vendas, dúvidas, suporte técnico,emissão de NFe, fechamento de contas do mês, controle de produção,administração financeira e etc.
 
-* Empresa: Peplastic Ind. e Com. de Plásticos – Desde 15/Agosto/2012 – à 29/Novembro/2012 (empresa de pequeno porte no segmento de injeção plástica)
-Cargo: Estagiária – Setor: RECEPÇÃO
-Funções: ligar para transportadoras para fazer solicitação de compras,atendimento PABX, FAX, atendimento pessoal, agendamento de reuniões.
 
-* Empresa: UNINOVE / Associação Educacional Nove de Julho - desde 02/Abril/2012 – à 25/Julho/2012 (Empresa de grande porte no segmento ensino e pesquisa)
-Cargo: Estagiária Nível E - Setor: ARQUIVO da Secretaria
-Funções: arquivar, digitalizar, enviar, receber e organizar prontuários e documentos de alunos, fazer atendimentos telefônicos à alunos.
 
-* Empresa: FORO REGIONAL IX VILA PRUDENTE – TRIBUNAL DE JUSTIÇA - de 31/Janeiro/2012 à 28/Março/2012 (órgão Público de grande porte no segmento jurídico)
-Cargo: Estagiária – Setor: Vara de 1ª Instância SPI 3.9
-Funções: atendimento a advogados, juízes e militares; protocolar, arquivar e organizar processos e documentos.
+## Experiência
+
+
+
+**GETSOURCE** 07/05/2018 – 28/09/2018
+Cargo: **Analista de Sucesso**
+
+Responsável por coordenar os processos de mapeamento de projetos e estratégia de
+negócios,buscando soluções e melhorias, através da gestão dos projetos dos clientes:
+
+* Análise e levantamento de requisitos, especificação, modelagem, construção de
+relatórios;
+* Análise das estratégias de gestão de negócios através da gestão dos
+relacionamentos com clientes;
+* Após levantamento de requisitos e planejamento estratégico de cada projeto, alinhar
+funções com o time para delegar atividades à cada colaborador da equipe;
+* Garantir o sucesso da organização GetSource como um todo, através da visão de
+mercado e do planejamento estratégico que leva à melhores soluções ao cliente;
+* QA - Análise de testes, registro de não conformidades relativas à arquitetura e/ou
+modelagem dos sistemas.
+
+
+**SEBRAE SP** 04/04/2016 – 03/04/2018
+Cargo: **Estagiária de CRM**
+
+Atuação na área responsável pelo CRM e Base de dados do Sebrae-SP, desenvolvendo
+estratégias de relacionamento e conversão:
+
+* Suporte nas atividades do subprocesso de CRM, em especial na análise e
+manipulação de banco de dados (SQL Server);
+* Gestão de Dados - Extração, processo de coleta, organização, análise, captura,
+tratamento e enriquecimento da base de dados;
+* Controle de Campanhas - Levantamento de dados, análise e controle de KPI's,
+mensuração de resultados, desenvolvimento e análise de relatórios;
+* Metodologias Ágeis - Aplicação de SCRUM na organização dos projetos da unidade;
+* Gestão de Projetos – realização de escopo, identificação de stakeholders, mitigar
+riscos, aplicação de PDCA;
+* Experiência de Usuário - Implantação de plataformas que auxiliem na fácil
+comunicação do usuário, entendimento e facilidade de acesso aos sistemas;
+* Estratégia de Negócio - Análise de perfil dos clientes para melhor direcionamento
+estratégico de produtos, segmentação de usuários, obtenção de insights que levam a
+melhores decisões e direções estratégicas de negócio;
+* Relacionamento com cliente - Testes A/B, gestão de e-mail marketing e régua de
+relacionamento;
+* Interface com times internos - Produtos, TI, Atendimento, Gestão Estratégica.
