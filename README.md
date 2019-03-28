@@ -7,20 +7,12 @@ email: vilmaraov@gmail.com
 \- [LinkedIn](https://www.linkedin.com/in/vilmaradeoliveiravaldevino/) 
   
   
-
-
-
-
 ## Formação
 
-**Bacharel em Sistemas de Informação – 02/2015 - 12/2018**    	
-Universidade Uninove - Centro Universitário Nove de Julho    
+**Bacharel em Sistemas de Informação – 02/2015 - 12/2018**  
+Universidade Uninove - Centro Universitário Nove de Julho  
   
   
-
-
-
-
 ## Cursos Complementares
 
 * Python para Análise de Dados – Minas Programam - 18 à 22/02/2019 (20 horas)
@@ -29,35 +21,20 @@ Universidade Uninove - Centro Universitário Nove de Julho
 * Manutenção de Micro - Senac Vila Prudente - 10/10 à 12/12/2015 (30 horas) 
   
   
-
-
-
-
 ## Idiomas
 
 * Inglês: Intermediário II - Wise Up - 03/02/2018 - previsão de término 09/2019;
 * Espanhol: Básico - Subprefeitura da Vila Prudente - 02/2011 - 12/2011.
   
   
-
-
-
-
 ## Conhecimentos
 
 Lógica de programação, Estratégia de negócios, Gestão de projetos, Python, C, Pacote office,
 SQL server, QA, Jira, Trello, Conhecimentos básicos em Java, HTML e CSS.
   
   
-
-
-
-
 ## Experiência
   
-
-
-
 **GETSOURCE** 07/05/2018 – 28/09/2018  
 Cargo: **Analista de Sucesso**  
 
@@ -76,8 +53,6 @@ mercado e do planejamento estratégico que leva à melhores soluções ao client
 modelagem dos sistemas.
   
   
-
-
 **SEBRAE SP** 04/04/2016 – 03/04/2018  
 Cargo: **Estagiária de CRM**  
 
