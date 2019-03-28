@@ -4,7 +4,7 @@ Brasileira, São Paulo-SP, 23 anos, Solteira
 
 email: vilmaraov@gmail.com
 
-\- [Linkedin](https://www.linkedin.com/in/vilmaradeoliveiravaldevino/) 
+\- [LinkedIn](https://www.linkedin.com/in/vilmaradeoliveiravaldevino/) 
   
   
 
