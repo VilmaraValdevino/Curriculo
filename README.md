@@ -1,40 +1,36 @@
-# Vilmara de Oliveira Valdevino
+﻿# Vilmara de Oliveira Valdevino
 
-Brasileira, São Paulo-SP, 23 anos, Solteira
+Brasileira, São Paulo-SP, 25 anos, Solteira
 
 email: vilmaraov@gmail.com
 
-\- [LinkedIn](https://www.linkedin.com/in/vilmaradeoliveiravaldevino/) 
-  
-  
-## Formação
+\- [LinkedIn](https://www.linkedin.com/in/vilmaradeoliveiravaldevino/?locale=en_US) 
 
-**Bacharel em Sistemas de Informação – 02/2015 - 12/2018**  
-Universidade Uninove - Centro Universitário Nove de Julho  
+**Objetivo:** Data Scientist
   
-  
-## Cursos Complementares
 
-* Python para Análise de Dados – Minas Programam - 18 à 22/02/2019 (20 horas)
-* Construção de Impressora 3D - Sesc São Caetano - 07/10 à 09/12/2017 (32 horas)
-* Front-end - Programaria - 22/10 à 03/12/2016 (36 horas)
-* Manutenção de Micro - Senac Vila Prudente - 10/10 à 12/12/2015 (30 horas) 
-  
-  
-## Idiomas
-
-* Inglês: Intermediário II - Wise Up - 03/02/2018 - previsão de término 09/2019;
-* Espanhol: Básico - Subprefeitura da Vila Prudente - 02/2011 - 12/2011.
-  
-  
-## Conhecimentos
-
-Lógica de programação, Estratégia de negócios, Gestão de projetos, Python, C, Pacote office,
-SQL server, QA, Jira, Trello, Conhecimentos básicos em Java, HTML e CSS.
-  
-  
 ## Experiência
   
+**PWC BRASIL** 15/07/2019 – ATUAL 
+Cargo: Analista de Business Intelligence (BI) 
+
+Colaboro na equipe de tecnologia com foco em impostos, atuando em projetos de Data Analytics e ETL: 
+ 
+* Análise de dados e desenvolvimento de soluções tributárias e financeiras; 
+* Conhecimentos em obrigações governamentais(EFD Fiscal,EFD Contribuições); 
+* Desenvolvimento de Scripts e processamento de dados (Sql Server, Alteryx); 
+* Gestão de Projetos e desenvolvimento baseados em metodologia ágil(Scrum); 
+* Gerenciamento de equipe, demandas e questões relacionadas ao escopo e prazos; 
+* Criação de Dashboards a partir de dados analíticos(Qlik Sense); 
+* Qualities de auditoria da metodologia do departamento aplicada nos projetos da equipe.
+
+  
+**PROXXI – IBM** 20/05/2019 – 01/07/2019 
+Cargo: Analista de Suporte Técnico Remoto 
+
+Suporte técnico remoto à sistemas, responsável pelo atendimento ao cliente Santander e pela solução de incidentes de 1º. Nível de atendimento, encaminhamento para 2º. Nível, se necessário.
+
+
 **GETSOURCE** 07/05/2018 – 28/09/2018  
 Cargo: **Analista de Sucesso**  
 
@@ -76,3 +72,27 @@ melhores decisões e direções estratégicas de negócio;
 * Relacionamento com cliente - Testes A/B, gestão de e-mail marketing e régua de
 relacionamento;
 * Interface com times internos - Produtos, TI, Atendimento, Gestão Estratégica.
+
+ 
+## Formação
+
+**Bacharel em Sistemas de Informação – 02/2015 - 12/2018**  
+Universidade Uninove - Centro Universitário Nove de Julho  
+  
+  
+## Cursos Complementares
+
+* Python para Análise de Dados – Minas Programam - 18 à 22/02/2019 (20 horas)
+* Construção de Impressora 3D - Sesc São Caetano - 07/10 à 09/12/2017 (32 horas)
+* Front-end - Programaria - 22/10 à 03/12/2016 (36 horas)
+* Manutenção de Micro - Senac Vila Prudente - 10/10 à 12/12/2015 (30 horas) 
+  
+  
+## Conhecimentos
+
+Lógica de programação, SQL server,  Alteryx, QlikSense ,  Pacote office, Habilidade em Excel nível intermediário,  Acess, Estratégia de negócios, Gestão de projetos, Conhecimento em Python: bibliotecas para análise de dados: NumPy e Pandas, importação de dados e data wrangling (limpeza e adaptação de bases), visualização de dados: gráficos e tabelas, C, QA, Jira, Trello.  
+
+
+## Idiomas
+
+* Inglês: B1 -  B1 - Intermediário – (EF English Live 04/2020 – Atual, Wise Up 02/2018 - 04/2020);  
