@@ -95,4 +95,4 @@ Lógica de programação, SQL server,  Alteryx, QlikSense ,  Pacote office, Habi
 
 ## Idiomas
 
-* Inglês: B1 -  B1 - Intermediário – (EF English Live 04/2020 – Atual, Wise Up 02/2018 - 04/2020);  
+* Inglês:  B1 - Intermediário – (EF English Live 04/2020 – Atual, Wise Up 02/2018 - 04/2020);  
