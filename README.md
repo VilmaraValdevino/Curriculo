@@ -12,7 +12,7 @@ email: vilmaraov@gmail.com
 ## Experiência
   
 **PWC BRASIL** 15/07/2019 – ATUAL 
-Cargo: Analista de Business Intelligence (BI) 
+Cargo: **Analista de Business Intelligence (BI)**
 
 Colaboro na equipe de tecnologia com foco em impostos, atuando em projetos de Data Analytics e ETL: 
  
@@ -26,7 +26,7 @@ Colaboro na equipe de tecnologia com foco em impostos, atuando em projetos de Da
 
   
 **PROXXI – IBM** 20/05/2019 – 01/07/2019 
-Cargo: Analista de Suporte Técnico Remoto 
+Cargo: **Analista de Suporte Técnico Remoto** 
 
 Suporte técnico remoto à sistemas, responsável pelo atendimento ao cliente Santander e pela solução de incidentes de 1º. Nível de atendimento, encaminhamento para 2º. Nível, se necessário.
 
