@@ -1,6 +1,6 @@
-﻿# Vilmara de Oliveira Valdevino
+﻿# Vilmara Valdevino
 
-Brasileira, São Paulo-SP, 25 anos, Solteira
+Brasileira, São Paulo-SP
 
 email: vilmaraov@gmail.com
 
