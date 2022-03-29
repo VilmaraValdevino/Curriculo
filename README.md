@@ -10,11 +10,62 @@ email: vilmaraov@gmail.com
   
 
 ## Experiência
+
+ **4MK Solitions** 16/11/2021 – ATUAL   
+Cargo: **Analista de Dados Sênior**    
+
+Analista de Business Intelligence alocada no cliente Itaú.
+
+
+ **Natura &Co** 19/04/2021 – 12/11/2021   
+Cargo: **Analista de Dados Plena**    
+
+Analista de Dados com foco em Social Selling na squad de Growth Hacking do centro de excelência e compartilhamento de serviços de dados Natura (CoE Dados)
+
+Responsável pela análise de dados e desenvolvimento de sugestões estratégicas para Social Selling:
+
+* Análise e melhoria contínua do negócio por meio de estudos, análise de dados, pesquisas e insights;
+* Elaboração e acompanhamento de testes de comunicação;
+* Levantamento das necessidades do negócio para geração de bases, realização de análises e recomendações para os times de comunicação subsidiando tomadas de decisão da área;
+* Aplicação e disseminamento da metodologia de Growth Hacking em conjunto aos times e squads.
+
+
+ **Minas Programam** 03/05/2021 – 31/08/2021   
+Cargo: **Monitora em Análise de Dados**    
+
+De Maio a Agosto de 2021 aconteceu o curso de Introdução à Programação do Instituto Minas Programam! (primeira edição completamente online devido a pandemia)
+
+Promovemos oportunidades de aprendizado sobre programação destinado principalmente a meninas/mulheres negras e/ou de periferia, pessoas trans e não-binárias.
+
+Meu papel como monitora de sala para a disciplina de análise de dados foi:
+
+* Solucionar eventuais dúvidas das alunas acerca do conteúdo das aulas;
+* Acompanhar as alunas nas práticas de laboratório;
+* Dar apoio as estudantes, repassando os informes da professora durante a aula, por whatsapp ou por e-mail.
+
   
-**PWC BRASIL** 15/07/2019 – ATUAL   
+ **QINTESS** 15/07/2019 – 09/07/2020   
+Cargo: **Analista de Dados Plena**    
+
+• Alocada no cliente Natura
+
+Analista de Dados com foco em CRM no chapter de Analytics do centro de excelência e compartilhamento de serviços de dados Natura (COE Dados)
+
+Responsável pela análise e mensuração de dados e desenvolvimento de sugestões estratégicas para a jornada da Consultora de Beleza Natura Malásia:
+
+* Análise de dados demográfica;
+* Análise exploratória com foco em aprendizados e insights para o negócio e para a operação de CRM a partir de dados; 
+* Desenvolvimento de estratégias para ações de Marketing e CRM em parceria com o time de Estratégias; 
+* Análise e desenvolvimento de estudos de perfil e comportamento de públicos com foco em consultoras/revendedoras; 
+* Análise de dados com foco em prospecção, conversão, relacionamento e fidelização do cliente e consultores do modelo de venda direta; 
+* Mensuração de resultados das ações de CRM, gerando aprendizados e insumos que direcionam o investimento para as ações mais rentáveis; 
+* Interface com os times de gestão estratégica, operações, marketing e vendas internacionais para viabilizar ações do projeto Malásia
+  
+  
+**PWC BRASIL** 15/07/2019 – 09/07/2020   
 Cargo: **Analista de Business Intelligence (BI)**    
 
-Colaboro na equipe de tecnologia com foco em impostos, atuando em projetos de Data Analytics e ETL: 
+Colaboração na equipe de tecnologia com foco em impostos, atuando em projetos de Data Analytics e ETL: 
  
 * Análise de dados e desenvolvimento de soluções tributárias e financeiras; 
 * Conhecimentos em obrigações governamentais(EFD Fiscal,EFD Contribuições); 
