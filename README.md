@@ -4,17 +4,68 @@ Brasileira, São Paulo-SP
 
 email: vilmaraov@gmail.com
 
-\- [LinkedIn](https://www.linkedin.com/in/vilmaradeoliveiravaldevino/?locale=en_US) 
+\- [LinkedIn](https://www.linkedin.com/in/valdevinovilmara) 
 
-**Objetivo:** Data Scientist
+
   
 
 ## Experiência
 
- **4MK Solitions** 16/11/2021 – ATUAL   
+
+
+ **Objetivo Pessoal** – 19/06/2023 – 28/11/2025 
+**Gold Coast - Austrália** 
+ 
+Após mais de cinco anos trabalhando na área de análise de dados, mudei-me para a Austrália com o objetivo 
+de aprender inglês e ampliar minhas perspectivas pessoais e profissionais. Durante esse período, além de 
+estudar em uma escola de inglês, busquei ativamente funções de atendimento ao cliente para acelerar meu 
+desenvolvimento no idioma por meio de interações diárias com diferentes pessoas. Trabalhei como barista e 
+garçonete, posições que exigem comunicação constante, agilidade e empatia. 
+ 
+Minha experiência como barista, em especial, aprimorou minha capacidade de atuar sob pressão, lidar com 
+situações de alta demanda e oferecer um atendimento ao cliente excepcional. Como garçonete, desenvolvi 
+ainda mais minhas habilidades interpessoais, meu senso de organização e minha escuta ativa, 
+proporcionando um serviço atencioso e personalizado aos clientes. 
+ 
+Após concluir meu curso de inglês, comecei a estudar um programa VET – Diploma de TI em Banco de Dados 
+e Gestão de Dados, apesar de já possuir um bacharelado no Brasil. Escolhi cursar esse diploma para adquirir 
+vocabulário técnico em inglês e fortalecer meus conhecimentos em um contexto internacional. 
+ 
+Agora, estou pronta para retornar à minha carreira em análise de dados, trazendo não apenas minha 
+experiência técnica, mas também um conjunto renovado de habilidades interpessoais, de comunicação e 
+adaptabilidade, que enriquecerão meu desempenho na próxima oportunidade profissional. 
+
+
+ **AgroGalaxy** – 12/07/2022 – 12/06/2023 
+Cargo: **Especialista de Dados** 
+ 
+Colaboração da migração de sistemas Siagri para SAP atuando na frente de dados: 
+ 
+* Carga e saneamento de dados;  
+* Data mapping.  
+* Mapeamento de dados;  
+* Apoio no processo Data-Driven da empresa utilizando Azure Cloud; 
+* Transformações de dados utilizando Python; 
+* Extração de dados de bancos de dados relacionais; 
+* Especificação e manutenção de camadas Delta Lake utilizando AWS. 
+
+
+ **4MK Solitions** 16/11/2021 – 21/06/2022   
 Cargo: **Analista de Dados Sênior**    
 
-Analista de Business Intelligence alocada no cliente Itaú.
+Alocada na área de CRM do Itaú Unibanco responsável pela estratégia, gestão e implantação de 
+comunicações de produtos de crédito, para clientes Itaú Varejo e Itaú Uniclass, com objetivo de alavancar 
+resultado dos produtos de crédito em parceira com os times de produtos, marketing e canais: 
+
+* Estratégia de Vendas de Cartões PF; 
+* Projetos estruturados em Metodologia Ágil/ Scrum; 
+* Segmentação de público para campanhas utilizando dados e resultados focando na visão cliente; 
+* Desenvolvimento, implementação e gestão das Campanhas de CRM do Itaú, atuando em diversos  
+produtos do banco, em todos os canais, validando o impacto das comunicações sobre as vendas totais e a 
+interação dos usuários finais sobre as campanhas, fazendo interface com áreas de produtos, marketing e 
+canais; 
+* Ferramentas: SAS Guide, Microsoft Dynamics, SQL, Google Ad Manager, SALESFORCE, PowerBI, Tableu, 
+Hadoop Hue. 
 
 
  **Natura &Co** 19/04/2021 – 12/11/2021   
@@ -133,17 +184,25 @@ Universidade Uninove - Centro Universitário Nove de Julho
   
 ## Cursos Complementares
 
-* Python para Análise de Dados – Minas Programam - 18 à 22/02/2019 (20 horas)
-* Construção de Impressora 3D - Sesc São Caetano - 07/10 à 09/12/2017 (32 horas)
+* Diploma de TI em Banco de Dados e Gestão de Dados – Mindroom Innovation (Austrália) – 11/2025 ( 1440 
+horas) 
+* General English – Langports (Austrália) – 12/2023 (480 horas) 
+* Treinamento Microsoft Security, Compliance, and Identity Fundamentals - KaSolutions - 03/2022 (8 horas) 
+* Certificação: Oracle Cloud Infrastructure Foundations Associate certification – Oracle - 03/2022 
+* Curso Produtividade e Gestão do Tempo - Escola Conquer - 01/2022 (15 horas) 
+* Treinamento Tableau Avançado - QSOFT - 07/2021 (10 horas) 
+* Sprint PrograMaria Inteligência Artificial para Devs - PrograMaria - 04 à 22/05/2020 (40 horas) 
+* Python para Análise de Dados – Minas Programam - 18 à 22/02/2019 (20 horas) 
 * Front-end - Programaria - 22/10 à 03/12/2016 (36 horas)
-* Manutenção de Micro - Senac Vila Prudente - 10/10 à 12/12/2015 (30 horas) 
   
   
-## Conhecimentos
+## Conhecimentos | Habilidades
 
-Lógica de programação, SQL server,  Alteryx, QlikSense ,  Pacote office, Habilidade em Excel nível intermediário,  Acess, Estratégia de negócios, Gestão de projetos, Conhecimento em Python: bibliotecas para análise de dados: NumPy e Pandas, importação de dados e data wrangling (limpeza e adaptação de bases), visualização de dados: gráficos e tabelas, C, QA, Jira, Trello.  
+ 
+SQL | Importação de dados | Extração de dados | Análise de dados | Tratamento e enriquecimento de banco de dados | Análise Exploratória | Organização de dados (limpeza e adaptação de 
+bases) | Visualização de dados: gráficos e tabelas | Alteryx | QlikSense | Lógica de Programação | SAS | Bibliotecas NumPy e Pandas (Python) | Pacote Microsoft Office | MS Excel intermediário  | Estratégia de negócio | CRM | QA | Jira | Trello | Gerenciamento de Projetos | Scrum | Boa Comunicação escrita e oral | Colaborativa 
 
 
 ## Idiomas
 
-* Inglês:  B1 - Intermediário – (EF English Live 04/2020 – Atual, Wise Up 02/2018 - 04/2020);  
+* Inglês:  Upper-Intermediate;  
